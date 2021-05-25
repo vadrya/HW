@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10%;
+    font-family: 'Times New Roman', serif;
+    background: coral;
+}
+
+.list-1 {
+    text-align: left;
+    font-size: 2rem;
+    color: indigo;
+}
